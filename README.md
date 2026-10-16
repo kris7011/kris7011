@@ -1,14 +1,14 @@
 # Hi, I'm Kris Riisgaard Larsen
 
-**Full-stack software developer · C# / .NET · APIs · integrations · React · Angular · Blazor**
+**Full-Stack Software Developer · C# / .NET · React · TypeScript · APIs & Integrations**
 
-I'm a full-stack software developer with 7+ years of professional experience in C#/.NET, building APIs, integrations and maintainable software solutions.
+I'm a full-stack software developer with more than seven years of professional software development experience and a strong foundation in C#/.NET, APIs and system integrations.
 
-I enjoy working across the entire application stack, from backend architecture and business logic to frontend development and user experience.
+I enjoy building solutions across the entire application stack, combining backend architecture and business logic with frontend development and user experience.
 
-Alongside my professional backend experience, I've developed full-stack projects using React, TypeScript, Blazor and Angular, with a focus on clean code, testing and delivering complete, functional applications.
+My experience includes C#/.NET, React, Angular, TypeScript and Blazor, with a focus on maintainable code, automated testing and delivering practical software solutions.
 
-The projects below are public portfolio projects. Each README states what is implemented, what is simulated and what is deliberately out of scope.
+The projects below are public portfolio projects that complement my professional experience. Each README states what is implemented, what is simulated and what is deliberately out of scope.
 
 ---
 
@@ -17,12 +17,12 @@ The projects below are public portfolio projects. Each README states what is imp
 | Area | Technologies and practices |
 |---|---|
 | **Backend** | C#, .NET 8–10, ASP.NET Core (Minimal APIs and Web API), REST API design, Problem Details, dependency injection, OpenAPI/Swagger |
+| **Frontend** | TypeScript, JavaScript, React, Angular (Signals, Reactive Forms, RxJS), Blazor, HTML, CSS, Tailwind CSS |
 | **Integrations and messaging** | RabbitMQ (publisher confirms, dead-lettering), transactional outbox, idempotent consumers, third-party HTTP APIs, managed-to-native interop (C ABI, `LibraryImport`) |
 | **Databases** | PostgreSQL, SQLite, Entity Framework Core and migrations, Azure Cosmos DB |
 | **Architecture** | Clean Architecture, ports and adapters, feature folders, event-driven architecture, Architecture Decision Records |
 | **Testing** | xUnit, `WebApplicationFactory` integration tests, Vitest, pytest, Catch2, failure-mode and concurrency tests against real infrastructure |
 | **CI/CD and cloud** | GitHub Actions, Docker, GitHub Container Registry, Azure App Service, Azure Static Web Apps |
-| **Frontend** | TypeScript, React, Angular (Signals, Reactive Forms, RxJS), Blazor, Tailwind CSS |
 | **Also** | Node.js, Python, FastAPI, C++20, C17, CMake, Linux |
 
 ---
@@ -112,6 +112,7 @@ A prototype that turns a natural-language product request into ranked product su
 
 ## How I work
 
+- **Complete features, end to end:** the API, data model, user interface, tests and CI are delivered together.
 - **Business rules live in the backend** and are tested in isolation. Infrastructure sits behind small interfaces.
 - **Failure modes are designed and tested,** not assumed away: retries, idempotency, health checks and explicit error contracts.
 - **Automation from the start:** builds, tests and container publishing run in GitHub Actions.
@@ -119,4 +120,4 @@ A prototype that turns a natural-language product request into ranked product su
 
 ---
 
-I'm open to backend and full-stack developer roles, particularly in C# and .NET.
+I'm interested in software development opportunities across the full stack, including roles focused on backend engineering, frontend development or a combination of both.
