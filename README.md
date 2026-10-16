@@ -1,8 +1,12 @@
 # Hi, I'm Kris Riisgaard Larsen
 
-**Backend-focused software developer · C# / .NET · REST APIs · integrations · software architecture**
+**Full-stack software developer · C# / .NET · APIs · integrations · React · Angular · Blazor**
 
-I build backend systems where correctness matters: clear domain boundaries, explicit failure handling, automated tests that prove the behaviour, and CI pipelines that keep it that way. Most of my work is in C# and ASP.NET Core. I also use TypeScript/Node.js, Python and C/C++ when a problem calls for them.
+I'm a full-stack software developer with 7+ years of professional experience in C#/.NET, building APIs, integrations and maintainable software solutions.
+
+I enjoy working across the entire application stack, from backend architecture and business logic to frontend development and user experience.
+
+Alongside my professional backend experience, I've developed full-stack projects using React, TypeScript, Blazor and Angular, with a focus on clean code, testing and delivering complete, functional applications.
 
 The projects below are public portfolio projects. Each README states what is implemented, what is simulated and what is deliberately out of scope.
 
@@ -18,7 +22,7 @@ The projects below are public portfolio projects. Each README states what is imp
 | **Architecture** | Clean Architecture, ports and adapters, feature folders, event-driven architecture, Architecture Decision Records |
 | **Testing** | xUnit, `WebApplicationFactory` integration tests, Vitest, pytest, Catch2, failure-mode and concurrency tests against real infrastructure |
 | **CI/CD and cloud** | GitHub Actions, Docker, GitHub Container Registry, Azure App Service, Azure Static Web Apps |
-| **Frontend** | TypeScript, React, Angular (Signals, Reactive Forms, RxJS), Tailwind CSS |
+| **Frontend** | TypeScript, React, Angular (Signals, Reactive Forms, RxJS), Blazor, Tailwind CSS |
 | **Also** | Node.js, Python, FastAPI, C++20, C17, CMake, Linux |
 
 ---
