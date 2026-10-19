@@ -96,7 +96,7 @@ A full-stack meeting room booking application, built as a technical assignment w
 - **Modern Angular frontend:** Signals, Reactive Forms, RxJS and Tailwind CSS 4, with explicit UTC handling.
 - **Tested end to end:** 15 backend integration tests using `WebApplicationFactory` and isolated SQLite databases, 8 Vitest frontend tests, and separate backend and frontend CI jobs.
 
-### [AI Deal Agent](https://github.com/kris7011/ai-deal-agent) — prototype
+### [AI Deal Agent](https://github.com/kris7011/ai-deal-agent) - prototype
 
 `Python` `FastAPI` `React` `TypeScript` `SerpAPI` `pytest`
 
