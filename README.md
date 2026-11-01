@@ -12,6 +12,20 @@ The projects below are public portfolio projects that complement my professional
 
 ---
 
+## Start here — three projects to review
+
+These public portfolio projects can be evaluated from screenshots, architecture notes and tests **without installing anything**. Each has a documented way to run the demo locally with free tools; no paid hosting is required.
+
+| Project | Engineering focus | Review and run locally |
+| --- | --- | --- |
+| **[Room Booking](https://github.com/kris7011/meeting-room-booking)** | .NET 10 + Angular, Microsoft Entra ID, multi-tenant security, concurrency and idempotent booking | [Reviewer guide](https://github.com/kris7011/meeting-room-booking/blob/main/docs/REVIEWER_GUIDE.md) · [Web screenshot](https://github.com/kris7011/meeting-room-booking/blob/main/docs/images/angular-demo.png) · [Mobile client](https://github.com/kris7011/room-booking-mobile) |
+| **[ShiftPlanner API](https://github.com/kris7011/shift-planner-api)** | .NET 10 + React, Clean Architecture, explainable scheduling rules, CSV import and tests | [Reviewer guide](https://github.com/kris7011/shift-planner-api/blob/main/docs/REVIEWER_GUIDE.md) · [Dashboard screenshot](https://github.com/kris7011/shift-planner-api/blob/main/docs/images/overview-status.png) |
+| **[CommerceFlow](https://github.com/kris7011/commerce-flow)** | Node.js + TypeScript, event-driven services, RabbitMQ/PostgreSQL, transactional outbox and recovery | [Reviewer guide](https://github.com/kris7011/commerce-flow/blob/main/docs/REVIEWER_GUIDE.md) · [Order timeline screenshot](https://github.com/kris7011/commerce-flow/blob/main/docs/assets/order-timeline.png) |
+
+**How to evaluate the work:** each reviewer guide links to a technical walkthrough, the relevant code and the automated tests, as well as clearly stated limitations. The projects are engineering demonstrations, not claims of production deployments. The booking system's anonymous demo does not require Microsoft sign-in; its authenticated features have separate setup requirements.
+
+---
+
 ## Core skills
 
 | Area | Technologies and practices |
